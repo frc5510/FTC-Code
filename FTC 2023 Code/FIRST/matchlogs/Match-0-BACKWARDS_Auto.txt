@@ -1,0 +1,44 @@
+--------- beginning of main
+02-23 18:18:21.430   982  1156 V Robocol : received command: CMD_INIT_OP_MODE(14720) $Stop$Robot$
+02-23 18:18:21.436   982  1157 I RobotCore: ******************** STOP - OPMODE /storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt ********************
+02-23 18:18:21.443   982  1255 I RobotCore: saving match logcat to /storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt
+02-23 18:18:21.443   982  1255 I RobotCore: logging command line: exec logcat -d -T '2-23 18:18:10.000' -f '/storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt' -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-23 18:18:21.445   982  1253 E LynxI2cDeviceSynch: placeholder: readTimestamped
+02-23 18:18:21.445   982  1253 D LinearOpModeHelper: User runOpModeMethod exited
+02-23 18:18:21.449   982  1253 V RobotCore: thread: ...terminating 'LinearOpMode main'
+02-23 18:18:21.451   982  1167 I RobotCore: Attempting to switch to op mode $Stop$Robot$
+02-23 18:18:21.481   982  1180 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(4805), attempt: 0
+02-23 18:18:21.496   982  1255 I RobotCore: Done running exec logcat -d -T '2-23 18:18:10.000' -f '/storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt' -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-23 18:18:21.496   982  1255 I RobotCore: exiting match logcat for /storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt
+02-23 18:18:21.511   982  1156 V Robocol : received command: CMD_RUN_OP_MODE(14726) $Stop$Robot$
+02-23 18:18:21.561   982  1180 V Robocol : sending CMD_NOTIFY_RUN_OP_MODE(4811), attempt: 0
+02-23 18:18:21.791   982  1156 V Robocol : received command: CMD_SET_MATCH_NUMBER(14735) 0
+02-23 18:18:21.793   982  1156 V Robocol : received command: CMD_INIT_OP_MODE(14736) BACKWARDS_Auto
+02-23 18:18:21.807   982  1157 I RobotCore: ******************** START - OPMODE BACKWARDS_Auto ********************
+02-23 18:18:21.809   982  1167 I RobotCore: Attempting to switch to op mode BACKWARDS_Auto
+02-23 18:18:21.867   982  1258 V RobotCore: thread: 'LinearOpMode main' starting...
+02-23 18:18:21.868   982  1258 I I2C     : Automatically initializing I2C device RevColorSensorV3 USB (embedded); module 173; bus 1; addr7=0x52
+02-23 18:18:21.868   982  1258 V BroadcomColorSensorImpl: internalInitialize()...
+02-23 18:18:21.877   982  1258 V BroadcomColorSensorImpl: state: 07 37 20 1d 42 01 c2 
+02-23 18:18:21.877   982  1258 V BroadcomColorSensorImpl: setGain(0x01)
+02-23 18:18:21.880   982  1258 V BroadcomColorSensorImpl: setLEDParameters(0x37)
+02-23 18:18:21.881   982  1180 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(4826), attempt: 0
+02-23 18:18:21.884   982  1258 V BroadcomColorSensorImpl: setProximityPulseCount(0x20)
+02-23 18:18:21.887   982  1258 V BroadcomColorSensorImpl: setPSMeasRate(0x1d)
+02-23 18:18:21.890   982  1258 V BroadcomColorSensorImpl: setLSMeasRate(0x42)
+02-23 18:18:21.895   982  1258 V BroadcomColorSensorImpl: enable() enabled=0x07...
+02-23 18:18:21.900   982  1258 V BroadcomColorSensorImpl: ...enable() enabled=0x07
+02-23 18:18:21.903   982  1258 V BroadcomColorSensorImpl: state: 07 37 20 1d 42 01 c2 
+02-23 18:18:21.904   982  1258 V BroadcomColorSensorImpl: ...internalInitialize()
+02-23 18:18:34.909   982  1156 V Robocol : received command: CMD_RUN_OP_MODE(14872) BACKWARDS_Auto
+02-23 18:18:34.921   982  1180 V Robocol : sending CMD_NOTIFY_RUN_OP_MODE(4957), attempt: 0
+02-23 18:18:39.830   982  1156 V Robocol : received command: CMD_INIT_OP_MODE(14944) $Stop$Robot$
+02-23 18:18:39.836   982  1157 I RobotCore: ******************** STOP - OPMODE /storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt ********************
+02-23 18:18:39.845   982  1258 E LynxI2cDeviceSynch: placeholder: readStatusQuery
+02-23 18:18:39.846   982  1260 I RobotCore: saving match logcat to /storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt
+02-23 18:18:39.846   982  1260 I RobotCore: logging command line: exec logcat -d -T '2-23 18:18:21.000' -f '/storage/emulated/0/FIRST/matchlogs/Match-0-BACKWARDS_Auto.txt' -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-23 18:18:39.846   982  1258 E LynxI2cDeviceSynch: placeholder: readTimestamped
+02-23 18:18:39.847   982  1258 D LinearOpModeHelper: User runOpModeMethod exited
+02-23 18:18:39.851   982  1258 V RobotCore: thread: ...terminating 'LinearOpMode main'
+02-23 18:18:39.853   982  1167 I RobotCore: Attempting to switch to op mode $Stop$Robot$
+02-23 18:18:39.881   982  1180 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(5032), attempt: 0

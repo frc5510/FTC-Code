@@ -1,0 +1,31 @@
+--------- beginning of main
+02-13 18:10:53.375   965  1158 V Robocol : received command: CMD_SET_MATCH_NUMBER(30947) 0
+02-13 18:10:53.377   965  1158 V Robocol : received command: CMD_INIT_OP_MODE(30948) AutonomousGen2
+02-13 18:10:53.389   965  1159 I RobotCore: ******************** START - OPMODE AutonomousGen2 ********************
+02-13 18:10:53.392   965  1169 I RobotCore: Attempting to switch to op mode AutonomousGen2
+02-13 18:10:53.455   965  1611 V RobotCore: thread: 'LinearOpMode main' starting...
+02-13 18:10:53.456   965  1611 I I2C     : Automatically initializing I2C device RevColorSensorV3 USB (embedded); module 173; bus 1; addr7=0x52
+02-13 18:10:53.456   965  1611 V BroadcomColorSensorImpl: internalInitialize()...
+02-13 18:10:53.464   965  1611 V BroadcomColorSensorImpl: state: 07 37 20 1d 42 01 c2 
+02-13 18:10:53.464   965  1611 V BroadcomColorSensorImpl: setGain(0x01)
+02-13 18:10:53.467   965  1611 V BroadcomColorSensorImpl: setLEDParameters(0x37)
+02-13 18:10:53.470   965  1611 V BroadcomColorSensorImpl: setProximityPulseCount(0x20)
+02-13 18:10:53.472   965  1611 V BroadcomColorSensorImpl: setPSMeasRate(0x1d)
+02-13 18:10:53.479   965  1201 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(21280), attempt: 0
+02-13 18:10:53.479   965  1611 V BroadcomColorSensorImpl: setLSMeasRate(0x42)
+02-13 18:10:53.486   965  1611 V BroadcomColorSensorImpl: enable() enabled=0x07...
+02-13 18:10:53.491   965  1611 V BroadcomColorSensorImpl: ...enable() enabled=0x07
+02-13 18:10:53.497   965  1611 V BroadcomColorSensorImpl: state: 07 37 20 1d 42 01 c2 
+02-13 18:10:53.497   965  1611 V BroadcomColorSensorImpl: ...internalInitialize()
+02-13 18:10:53.855   965  1158 V Robocol : received command: CMD_RUN_OP_MODE(30963) AutonomousGen2
+02-13 18:10:53.879   965  1201 V Robocol : sending CMD_NOTIFY_RUN_OP_MODE(21291), attempt: 0
+02-13 18:11:00.773   965  1158 V Robocol : received command: CMD_INIT_OP_MODE(31063) $Stop$Robot$
+02-13 18:11:00.778   965  1159 I RobotCore: ******************** STOP - OPMODE /storage/emulated/0/FIRST/matchlogs/Match-0-AutonomousGen2.txt ********************
+02-13 18:11:00.786   965  1611 E LynxI2cDeviceSynch: placeholder: readStatusQuery
+02-13 18:11:00.787   965  1613 I RobotCore: saving match logcat to /storage/emulated/0/FIRST/matchlogs/Match-0-AutonomousGen2.txt
+02-13 18:11:00.787   965  1613 I RobotCore: logging command line: exec logcat -d -T '2-13 18:10:53.000' -f '/storage/emulated/0/FIRST/matchlogs/Match-0-AutonomousGen2.txt' -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+02-13 18:11:00.787   965  1611 E LynxI2cDeviceSynch: placeholder: readTimestamped
+02-13 18:11:00.788   965  1611 D LinearOpModeHelper: User runOpModeMethod exited
+02-13 18:11:00.791   965  1611 V RobotCore: thread: ...terminating 'LinearOpMode main'
+02-13 18:11:00.792   965  1169 I RobotCore: Attempting to switch to op mode $Stop$Robot$
+02-13 18:11:00.799   965  1201 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(21393), attempt: 0

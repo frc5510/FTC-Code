@@ -1,0 +1,16 @@
+--------- beginning of main
+04-19 23:38:08.921   971  1187 V Robocol : received command: CMD_SET_MATCH_NUMBER(62622) 0
+04-19 23:38:08.927   971  1187 V Robocol : received command: CMD_INIT_OP_MODE(62623) MecanumAccurate
+04-19 23:38:08.935   971  1188 I RobotCore: ******************** START - OPMODE MecanumAccurate ********************
+04-19 23:38:08.937   971  1198 I RobotCore: Attempting to switch to op mode MecanumAccurate
+04-19 23:38:08.993   971  1328 V RobotCore: thread: 'LinearOpMode main' starting...
+04-19 23:38:09.021   971  1233 V Robocol : sending CMD_NOTIFY_INIT_OP_MODE(53011), attempt: 0
+04-19 23:38:09.641   971  1187 V Robocol : received command: CMD_RUN_OP_MODE(62639) MecanumAccurate
+04-19 23:38:09.661   971  1233 V Robocol : sending CMD_NOTIFY_RUN_OP_MODE(53022), attempt: 0
+04-19 23:50:32.254   971  1187 V Robocol : received command: CMD_INIT_OP_MODE(4904) $Stop$Robot$
+04-19 23:50:32.258   971  1188 I RobotCore: ******************** STOP - OPMODE /storage/emulated/0/FIRST/matchlogs/Match-0-MecanumAccurate.txt ********************
+04-19 23:50:32.261   971  1328 D LinearOpModeHelper: User runOpModeMethod exited
+04-19 23:50:32.261   971  1328 V RobotCore: thread: ...terminating 'LinearOpMode main'
+04-19 23:50:32.261   971  1338 I RobotCore: saving match logcat to /storage/emulated/0/FIRST/matchlogs/Match-0-MecanumAccurate.txt
+04-19 23:50:32.261   971  1338 I RobotCore: logging command line: exec logcat -d -T '4-19 23:38:8.000' -f '/storage/emulated/0/FIRST/matchlogs/Match-0-MecanumAccurate.txt' -n4 -v threadtime UsbRequestJNI:S UsbRequest:S art:W ThreadPool:W System:W ExtendedExtractor:W OMXClient:W MediaPlayer:W dalvikvm:W  *:V
+04-19 23:50:32.263   971  1198 I RobotCore: Attempting to switch to op mode $Stop$Robot$

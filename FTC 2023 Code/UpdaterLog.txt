@@ -1,0 +1,3207 @@
+1970-0-1 0:2:1 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1970-0-1 0:2:1 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1970-0-1 0:2:1 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1970-0-1 0:2:1 INFO:             BootService -- BootService started
+
+1970-0-1 0:2:1 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1970-0-1 0:2:1 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1970-0-1 0:2:1 INFO:             BootService -- Found 0 APKs
+
+1970-0-1 0:2:1 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1970-0-1 0:2:1 INFO:             BootService -- Checking for missing apps
+
+1970-0-1 0:2:1 WARNING:           BootService -- Access Point Service app is missing. Installing built-in version.
+
+1970-0-1 0:2:1 INFO:        ApkUpdateManager -- Silently installing APK: /system/fallback-apks/WifiApService.apk
+
+1970-0-1 0:2:1 INFO:            ApkInstaller -- Switched to state PREPARING
+
+1970-0-1 0:2:1 INFO:            ApkInstaller -- Switched to state PREPARED
+
+1970-0-1 0:2:1 INFO:            ApkInstaller -- Switched to state FINISHING
+
+1970-0-1 0:2:1 INFO:            ApkInstaller -- committed installation session, waiting for onInstallFinished to be called
+
+1970-0-1 0:2:2 INFO:            ApkInstaller -- onInstallFinished called
+
+1970-0-1 0:2:2 INFO:            ApkInstaller -- Switched to state FINISHED
+
+1970-0-1 0:2:2 INFO:        ApkUpdateManager -- Silent installation succeeded
+
+1970-0-1 0:2:2 INFO:              AP Service -- Sending TEST_FTC_WIFI broadcast to AP service
+
+1970-0-1 0:2:2 INFO:              AP Service -- Sending TEST_FTC_WIFI broadcast to AP service
+
+1970-0-1 0:2:2 WARNING:           BootService -- Robot Controller app is missing. Installing built-in version.
+
+1970-0-1 0:2:2 INFO:        ApkUpdateManager -- Silently installing APK: /system/fallback-apks/RobotController.apk
+
+1970-0-1 0:2:2 INFO:            ApkInstaller -- Switched to state PREPARING
+
+1970-0-1 0:2:4 INFO:            ApkInstaller -- Switched to state PREPARED
+
+1970-0-1 0:2:4 INFO:            ApkInstaller -- Switched to state FINISHING
+
+1970-0-1 0:2:4 INFO:            ApkInstaller -- committed installation session, waiting for onInstallFinished to be called
+
+1970-0-1 0:2:9 INFO:            ApkInstaller -- onInstallFinished called
+
+1970-0-1 0:2:9 INFO:            ApkInstaller -- Switched to state FINISHED
+
+1970-0-1 0:2:9 INFO:        ApkUpdateManager -- Silent installation succeeded
+
+1970-0-1 0:2:9 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1970-0-1 0:2:9 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1970-0-1 0:2:9 INFO:             BootService -- Access Point Service is already up-to-date
+
+1970-0-1 0:2:9 INFO:             BootService -- Checking if FTC apps are running
+
+1970-0-1 0:2:9 INFO:             BootService -- Boot procedures completed.
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1970-0-1 0:0:12 INFO:             BootService -- BootService started
+
+1970-0-1 0:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1970-0-1 0:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1970-0-1 0:0:12 INFO:             BootService -- Found 0 APKs
+
+1970-0-1 0:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1970-0-1 0:0:12 INFO:             BootService -- Checking for missing apps
+
+1970-0-1 0:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1970-0-1 0:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1970-0-1 0:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1970-0-1 0:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1970-0-1 0:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1970-0-1 0:0:13 INFO:             BootService -- Boot procedures completed.
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1970-0-1 0:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1970-0-1 0:0:13 INFO:             BootService -- BootService started
+
+1970-0-1 0:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1970-0-1 0:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1970-0-1 0:0:13 INFO:             BootService -- Found 0 APKs
+
+1970-0-1 0:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1970-0-1 0:0:13 INFO:             BootService -- Checking for missing apps
+
+1970-0-1 0:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1970-0-1 0:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1970-0-1 0:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1970-0-1 0:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:11 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:13 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:13 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 16:0:13 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 16:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 16:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 16:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 16:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:13 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:13 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 16:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:13 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.1
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if Access Point Service is outdated
+
+1969-11-31 18:0:12 INFO:             BootService -- Access Point Service is already up-to-date
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:1:44 INFO:   ControlHubUpdaterService -- Received intent: action=com.revrobotics.controlhubupdater.action.APPLY_OTA_UPDATE
+
+1969-11-31 18:1:44 INFO:   ControlHubUpdaterService -- Results will be sent to provided ResultReceiver.
+
+1969-11-31 18:1:44 INFO:   ControlHubUpdaterService -- Results will be sent to provided ResultReceiver.
+
+1969-11-31 18:1:44 INFO:       PendingActionFile -- Writing PendingActionFile:
+com.revrobotics.controlhubupdater.action.APPLY_OTA_UPDATE
+/data/media/0/OTA-Updates/RevHub-ControlHubOS-1.1.3.zip
+STAGE:VERIFYING
+DOWNGRADE_AUTHORIZED:false
+
+
+1969-11-31 18:1:44 INFO:        OtaUpdateManager -- Verifying update zip
+
+1969-11-31 18:1:50 INFO:        OtaUpdateManager -- Checking if this OTA would be a downgrade
+
+1969-11-31 18:1:50 INFO:        OtaUpdateManager -- Checking if this OTA file supports this device
+
+1969-11-31 18:1:50 INFO:            ResultSender -- Sending result: Update verification succeeded. Rebooting device and installing update.
+
+1969-11-31 18:1:50 INFO:       PendingActionFile -- Writing PendingActionFile:
+com.revrobotics.controlhubupdater.action.APPLY_OTA_UPDATE
+/data/media/0/OTA-Updates/RevHub-ControlHubOS-1.1.3.zip
+FUTURE_FINGERPRINT:FIRST/ch_v1_box/rk3328_box:7.1.2/NHG47K/rev09141420:userdebug/release-keys
+STAGE:STARTED_UPDATE
+DOWNGRADE_AUTHORIZED:false
+
+
+1969-11-31 18:2:8 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:2:8 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:2:8 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:2:8 INFO:             BootService -- BootService started
+
+1969-11-31 18:2:8 INFO:       PendingActionFile -- Read pending action:
+actionType: com.revrobotics.controlhubupdater.action.APPLY_OTA_UPDATE
+updateFile: /data/media/0/OTA-Updates/RevHub-ControlHubOS-1.1.3.zip
+STAGE: STARTED_UPDATE
+FUTURE_FINGERPRINT: FIRST/ch_v1_box/rk3328_box:7.1.2/NHG47K/rev09141420:userdebug/release-keys
+DOWNGRADE_AUTHORIZED: false
+
+
+1969-11-31 18:2:8 INFO:        OtaUpdateManager -- last_flag contains success value.
+
+1969-11-31 18:2:8 INFO:        OtaUpdateManager -- Build fingerprint matches.
+
+1969-11-31 18:2:8 INFO:            ResultSender -- Sending result: Update installed successfully.
+
+1969-11-31 18:2:8 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:2:8 WARNING:          ResultSender -- Client app is installed but not running. Launching and waiting 3 seconds before sending broadcast
+
+1969-11-31 18:2:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:2:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:2:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:2:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:2:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:2:11 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:11 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:11 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:11 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 16:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 16:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 16:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 16:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 16:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 16:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 16:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 16:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 16:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:11 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:11 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:13 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:11 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:11 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:11 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:13 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:13 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:13 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:13 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:13 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:13 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:13 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:13 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:13 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+                                                                                                                                                                                                                              1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:11 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:11 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:11 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:11 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:11 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:11 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:11 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:11 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:11 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- ================================== SYSTEM BOOT ==================================
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Control Hub OS version: 1.1.3
+
+1969-11-31 18:0:12 INFO:   BootBroadcastReceiver -- Launching BootService
+
+1969-11-31 18:0:12 INFO:             BootService -- BootService started
+
+1969-11-31 18:0:12 INFO:   PendingActionFileExecutor -- No pending action to be performed
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install in /storage/emulated/0/FIRST/updates/Robot Controller Application
+
+1969-11-31 18:0:12 INFO:             BootService -- Found 0 APKs
+
+1969-11-31 18:0:12 INFO:             BootService -- Looking for APKs to install on the SD card
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking for missing apps
+
+1969-11-31 18:0:12 INFO:             BootService -- Checking if FTC apps are running
+
+1969-11-31 18:0:12 INFO:             BootService -- Robot Controller is not running. Launching.
+
+1969-11-31 18:0:12 INFO:              SystemUtil -- Launching application com.qualcomm.ftcrobotcontroller
+
+1969-11-31 18:0:12 INFO:             BootService -- Boot procedures completed.
+
